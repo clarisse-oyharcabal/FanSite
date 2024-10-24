@@ -1,0 +1,14 @@
+/*BARS DE NAVIGATION*/
+nav {
+    padding:1%;
+    background-color:rgb(165,42,42,0.7);
+}
+
+ul {
+    list-style-type: none;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    align-items:center;
+    gap:20px;
+}   
